@@ -1,0 +1,96 @@
+{
+    "mouseLogitech": [
+        {
+            "id": 1,
+            "img": "../assets/img/gpro-superlight-b.png",
+            "name": "Logitech G Pro X Superlight Black",
+            "price": 180
+        },
+        {
+            "id": 2,
+            "img": "../assets/img/gpro-superlight-w.png",
+            "name": "Logitech G Pro X Superlight White",
+            "price": 180
+        },
+        {
+            "id": 3,
+            "img": "../assets/img/g-pro-wireless.png",
+            "name": "Logitech G Pro Wireless",
+            "price": 140
+        },
+        {
+            "id": 4,
+            "img": "../assets/img/g304.png",
+            "name": "Logitech G304 Black",
+            "price": 45
+        },
+        {
+            "id": 5,
+            "img": "../assets/img/g304-w.png",
+            "name": "Logitech G304 White",
+            "price": 45
+        },
+        {
+            "id": 6,
+            "img": "../assets/img/g102-black.png",
+            "name": "Logitech G102 LightSync",
+            "price": 22
+        }
+    ],
+    "mouseSteelseries": [
+        {
+            "id": 19,
+            "img": "../assets/img/rival3.png",
+            "name": "Steelseries Rival 3",
+            "price": 45
+        },
+        {
+            "id": 20,
+            "img": "../assets/img/rival3-wireless.png",
+            "name": "Steelseries Rival 3 Wireless",
+            "price": 70
+        }
+    ],
+    "mouseZowie": [
+        {
+            "id": 29,
+            "img": "../assets/img/ec1.png",
+            "name": "ZOWIE EC1",
+            "price": 80
+        },
+        {
+            "id": 30,
+            "img": "../assets/img/ec2.png",
+            "name": "ZOWIE EC2",
+            "price": 80
+        },
+        {
+            "id": 31,
+            "img": "../assets/img/s1.jpg",
+            "name": "ZOWIE S1 ",
+            "price": 80
+        },
+        {
+            "id": 32,
+            "img": "../assets/img/s2.png",
+            "name": " ZOWIE S2",
+            "price": 80
+        }
+    ],
+    "keyboardLogitech": [
+        {
+            "id": 7,
+            "img": "../assets/img/gpro-x.png",
+            "name": "Logitech G Pro X Mechanical Keyboard",
+            "price": 130
+        }
+    ],
+    "keyboardHyperX": [
+        {
+            "id": 11,
+            "img": "../assets/img/hyperx-alloy.png",
+            "name": "HyperX Alloy Origins Core",
+            "price": 110
+        }
+    ]
+}
